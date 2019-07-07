@@ -1,0 +1,27 @@
+{
+  "name": "react-native-switch-text",
+  "version": "0.13.0",
+  "description": "React Native Switch for text",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sm-hejazi/react-native-switch-text.git"
+  },
+  "keywords": [
+    "react-native",
+    "switch",
+    "android",
+    "ios",
+    "text",
+    "tab"
+  ],
+  "author": "S.Mahdi Hejazi <hejazi.ppp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sm-hejazi/react-native-switch-text/issues"
+  },
+  "homepage": "https://github.com/sm-hejazi/react-native-switch-text/"
+}

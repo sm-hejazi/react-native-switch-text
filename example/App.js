@@ -22,6 +22,7 @@ import {
 const App = () => {
     return (
         <Fragment>
+
             <StatusBar barStyle="dark-content"/>
             <SafeAreaView>
                 <ScrollView
